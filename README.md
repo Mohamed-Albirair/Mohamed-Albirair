@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mohamed Albirair
 #### Implementation science and mathematical modeling
-![Implementation science and mathematical modeling](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![MV0Uo9](https://github.com/Mohamed-Albirair/Mohamed-Albirair/assets/161655844/3a663865-e8d6-4fd1-97b8-e12eac2d7e5e)
 
 I am a physician and an implementation researcher who is enthusiastic about programming in R! I have experience in monitoring and evaluating health programs and interventions. 
 
