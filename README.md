@@ -14,5 +14,5 @@ Skills: R
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mohamedalbirair)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/senshikudo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohamed-albirair-0206bbb2/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedalbirair&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Albirair&show_icons=true)  
 
