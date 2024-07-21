@@ -2,7 +2,7 @@
 #### Implementation science and mathematical modeling
 ![MV0Uo9](https://github.com/Mohamed-Albirair/Mohamed-Albirair/assets/161655844/3a663865-e8d6-4fd1-97b8-e12eac2d7e5e)
 
-I am a physician and an implementation researcher and a devoted R programmer! I have experience in monitoring and evaluating health programs and interventions. 
+I am a physician, an implementation researcher, a mathematical modeler, and a devoted R programmer!
 
 Skills: R
 
