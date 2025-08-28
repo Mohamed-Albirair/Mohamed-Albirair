@@ -1,4 +1,4 @@
-Hi 👋 My name is Mohamed Albirair
+Hi 👋 my name is Mohamed Albirair
 =================================
 
 Public health professional
@@ -7,7 +7,8 @@ Public health professional
 I'm a physician, an implementation researcher, a mathematical modeler, and a devoted R programmer
 
 * 🌍  I'm based in Seattle, WA
-* ✉️  You can contact me at [mtwfig@gmail.com](mailto:mtwfig@gmail.com)
+* 🎓  I recently earned my PhD in Implementation Science, my focus is on mathematical modeling as an implementation strategy and a method for a priori evaluation
+* ✉️  You can contact me at [mta10@uw.edu](mailto:mta10@uw.edu) and at [mtwfig@gmail.com](mailto:mtwfig@gmail.com)
 * 🧠  I'm currently learning model calibratrion and validation
 * 💬  R makes me Sleepless in Seattle!
 
